@@ -12,14 +12,17 @@ This is a list of companies that have adopted Capsule, feel free to open a Pull-
 ### [Department of Defense](https://www.defense.gov/)
 ![United States Department of Defense](https://www.access-board.gov/images/dod-seal.png)
 
-### [KubeRocketCI](https://docs.kuberocketci.io/)
-![KubeRocketCI](https://raw.githubusercontent.com/epam/edp-install/master/docs/assets/krci-logo-267×150-white.png)
+### [Enreach](https://www.enreach.com/)
+![Enreach](https://campaigns.enreach.com/hubfs/Global/logos/Enreach-logo-vertical-indigo.svg)
 
 ### [Fastweb](https://www.fastweb.it/)
 ![Fastweb](https://www.fastweb.it/var/storage_feeds/CMS-Company/articoli/0c2/0c252987b90a18017dedf2ed9feda129/640x360.jpg)
 
 ### [Klarrio](https://klarrio.com/)
 ![Klarrio](https://klarrio.com/wp-content/uploads/klarrio.png)
+
+### [KubeRocketCI](https://docs.kuberocketci.io/)
+![KubeRocketCI](https://raw.githubusercontent.com/epam/edp-install/master/docs/assets/krci-logo-267×150-white.png)
 
 ### [PITS Global Data Recovery Services](https://www.pitsdatarecovery.net)
 ![PITS Global Data Recovery Services](https://www.pitsdatarecovery.net/wp-content/uploads/2020/09/pits-logo.svg)
@@ -41,6 +44,3 @@ This is a list of companies that have adopted Capsule, feel free to open a Pull-
 
 ### [Wargaming.net](https://www.wargaming.net/)
 ![Wargaming.net](https://www.wargaming.net/wgsw_public/wargaming/logo.svg)
-
-### [Enreach](https://www.enreach.com/)
-![Enreach](https://campaigns.enreach.com/hubfs/Global/logos/Enreach-logo-vertical-indigo.svg)
